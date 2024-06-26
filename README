@@ -1,6 +1,6 @@
 ## Source Engine SDK 2013
 =========================
 
-This is a fork of the Source SDK 2013 repository on GitHub. You can find the original repository [here](https://github.com/ValveSoftware/source-sdk-2013)
+This is a fork of the Source SDK 2013 repository on GitHub. You can find the original repository here: https://github.com/ValveSoftware/source-sdk-2013
 
 The license for the SDK is in the LICENSE file, please refer to that if you need to look at the license. Originally the license was also contained in the README, but I thought it made no sense to have the license in both places so I replaced it with this.
